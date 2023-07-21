@@ -26,3 +26,13 @@ Users have the option to add properties they are interested in to their wishlist
 The app offers a convenient "call the owner" button, which allows users to directly contact the property owner for further inquiries or arrangements.
 
 Overall, this real estate web application provides an efficient and user-friendly platform for users to discover and explore various properties and places while also enabling administrators to manage and update the content dynamically. With secure login mechanisms and session tracking, users can confidently engage with the app and make informed decisions about their real estate preferences.
+
+# Requirements
+1)VSCode
+2)Xampp Server.Start Apache and MySQL.
+3)Clone the repository and place it in htdocs folder of Xampp.
+4)Import the SQL file in PhpMyAdmin. 
+
+Your can now view your website on http://localhost/Real%20Estate%20management/index.php
+
+
