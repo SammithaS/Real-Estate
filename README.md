@@ -29,9 +29,13 @@ Overall, this real estate web application provides an efficient and user-friendl
 
 # Requirements
 1)VSCode
+
 2)Xampp Server.Start Apache and MySQL.
+
 3)Clone the repository and place it in htdocs folder of Xampp.
+
 4)Import the SQL file in PhpMyAdmin. 
+
 
 Your can now view your website on http://localhost/Real%20Estate%20management/index.php
 
