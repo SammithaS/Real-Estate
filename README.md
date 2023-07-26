@@ -39,4 +39,15 @@ Overall, this real estate web application provides an efficient and user-friendl
 
 Your can now view your website on http://localhost/Real%20Estate%20management/index.php
 
+# Screenshots
+![Screenshot (171)](https://github.com/SammithaS/Real-Estate/assets/121117205/df8d9a12-ca53-4d86-9dce-20f1d15c6b58)
+![Uploading Screenshot (195).png…]()
+![Screenshot (203)](https://github.com/SammithaS/Real-Estate/assets/121117205/1444ce17-794c-4239-b798-c0c7a62669fb)
+![Screenshot (205)](https://github.com/SammithaS/Real-Estate/assets/121117205/5397701b-9dd1-4bb5-8ce3-0760f146f6ab)
+![Screenshot (200)](https://github.com/SammithaS/Real-Estate/assets/121117205/e9d6f826-2bcc-43cd-bda1-6dc51faaefc1)
+![Screenshot (198)](https://github.com/SammithaS/Real-Estate/assets/121117205/2023d557-8403-4297-80a8-46fc20ab5d84)
+![Screenshot (201)](https://github.com/SammithaS/Real-Estate/assets/121117205/0b809808-0a96-447e-8830-abf75bbfca10)
+![Screenshot (206)](https://github.com/SammithaS/Real-Estate/assets/121117205/d7121cc6-7700-4f70-9c22-b59a880c91b7)
+![Screenshot (207)](https://github.com/SammithaS/Real-Estate/assets/121117205/f0eed78a-bd42-4ca1-982f-72f65c2cd7f5)
+
 
